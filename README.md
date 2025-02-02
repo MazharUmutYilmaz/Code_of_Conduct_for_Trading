@@ -7,18 +7,18 @@ Technical Analysis Side :
 - Developing indicator, strategy for systematic trading
 - Backtesting + Optimization
 - Hedging (for Spot positions in Long Term) 
-Used Python Frameworks for Technical Analysis :  
-* ta : For Technical Analysis
-* talib : For Technical Analysis
-* numpy :  Numerical computations
-* matplotlib : Visualization
-* pandas : Visualization
-* pyqt : GUI (OOP)
-* backtrader : Backtesting
-* yfinance : Datas (e.g. OHLCV)
-Fundamental Analysis Side : 
-- Income Statement | Balance Sheet
-- Dupont Analysis + Price to Book Ratio with Historical data + EV/EBITDA etc…
+- Used Python Frameworks for Technical Analysis :  
+  *  ta : For Technical Analysis
+  * talib : For Technical Analysis
+  * numpy :  Numerical computations
+  * matplotlib : Visualization
+  * pandas : Visualization
+  * pyqt : GUI (OOP)
+  * backtrader : Backtesting
+  * yfinance : Datas (e.g. OHLCV)
+- Fundamental Analysis Side : 
+  * Income Statement | Balance Sheet
+  * Dupont Analysis + Price to Book Ratio with Historical data + EV/EBITDA etc…
 
 - Außerhalb der Geschäftszeiten | During off-hours
 
