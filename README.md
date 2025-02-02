@@ -7,7 +7,7 @@ Technical Analysis Side :
 - Developing indicator, strategy for systematic trading
 - Backtesting + Optimization
 - Hedging (for Spot positions in Long Term) 
-- Used Python Frameworks for Technical Analysis :  
+- Used Python Frameworks for Trading :  
   *  ta : For Technical Analysis
   * talib : For Technical Analysis
   * numpy :  Numerical computations
